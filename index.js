@@ -5,8 +5,6 @@ const express = require('express');
 const db = require('./config/mongoose');
 
 
-//selecting the port  
-const port = 8000;
 
 const app = express();
 
